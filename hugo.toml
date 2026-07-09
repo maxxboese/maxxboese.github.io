@@ -1,12 +1,23 @@
 baseURL = 'https://maxxboese.github.io/'
 locale = 'en-us'
-title = 'MaxxBoese Portfolio'
+title = 'Maxx Boese'
 theme = 'PaperMod'
 
 [params]
   defaultTheme = "dark"
-  
-  [params.profileMode]
-    enabled = true
-    title = "Maxx Boese"
-    subtitle = "Cybersecurity Student | Developer"
+
+[params.profileMode]
+  enabled = true
+  title = "Maxx Boese"
+  subtitle = "Cybersecurity Student & Developer"
+  imageUrl = ""
+
+  [[params.profileMode.buttons]]
+    name = "GitHub"
+    url = "https://github.com/maxxboese"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
