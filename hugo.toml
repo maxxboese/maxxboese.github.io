@@ -2,3 +2,9 @@ baseURL = 'https://maxxboese.github.io/'
 languageCode = 'en-us'
 title = 'MaxxBoese Portfolio'
 theme = 'PaperMod'
+
+[params]
+  defaultTheme = "dark"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
