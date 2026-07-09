@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Maxx Boese</title>
-    <link>http://localhost:1313/</link>
+    <link>https://maxxboese.github.io/</link>
     <description>Recent content on Maxx Boese</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maxxboese.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fall Guys Item Shop Tracker</title>
-      <link>http://localhost:1313/projects/fall-guys-tracker/</link>
+      <link>https://maxxboese.github.io/projects/fall-guys-tracker/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/fall-guys-tracker/</guid>
+      <guid>https://maxxboese.github.io/projects/fall-guys-tracker/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Built a responsive web interface to track item rotations in Fall Guys.&lt;/p&gt;
 &lt;h3 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h3&gt;
@@ -24,16 +24,16 @@
     </item>
     <item>
       <title>My Project</title>
-      <link>http://localhost:1313/projects/my-first-project/</link>
+      <link>https://maxxboese.github.io/projects/my-first-project/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/my-first-project/</guid>
+      <guid>https://maxxboese.github.io/projects/my-first-project/</guid>
       <description>&lt;p&gt;Project description here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secure Licensing &amp; Authentication Architecture</title>
-      <link>http://localhost:1313/projects/auth-system/</link>
+      <link>https://maxxboese.github.io/projects/auth-system/</link>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/auth-system/</guid>
+      <guid>https://maxxboese.github.io/projects/auth-system/</guid>
       <description>&lt;h3 id=&#34;system-overview&#34;&gt;System Overview&lt;/h3&gt;
 &lt;p&gt;Engineered a secure, end-to-end authentication and licensing ecosystem connecting a client-side loader to a web-based management backend.&lt;/p&gt;
 &lt;ul&gt;
@@ -46,9 +46,9 @@
     </item>
     <item>
       <title>Custom License &amp; Update Management</title>
-      <link>http://localhost:1313/projects/loader-system/</link>
+      <link>https://maxxboese.github.io/projects/loader-system/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/loader-system/</guid>
+      <guid>https://maxxboese.github.io/projects/loader-system/</guid>
       <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;
 &lt;p&gt;Developed a multi-game loader system with a focus on modular architecture and automated software delivery.&lt;/p&gt;
 &lt;ul&gt;
@@ -59,9 +59,9 @@
     </item>
     <item>
       <title>Memory Research &amp; Reverse Engineering</title>
-      <link>http://localhost:1313/projects/memory-research/</link>
+      <link>https://maxxboese.github.io/projects/memory-research/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/memory-research/</guid>
+      <guid>https://maxxboese.github.io/projects/memory-research/</guid>
       <description>&lt;h3 id=&#34;technical-research&#34;&gt;Technical Research&lt;/h3&gt;
 &lt;p&gt;Focused on deep-level memory manipulation and security research for competitive game titles.&lt;/p&gt;
 &lt;ul&gt;
