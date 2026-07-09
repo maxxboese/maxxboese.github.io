@@ -1,30 +1,12 @@
 baseURL = 'https://maxxboese.github.io/'
-languageCode = 'en-us'
-title = 'Maxx Boese'
+locale = 'en-us'
+title = 'MaxxBoese Portfolio'
 theme = 'PaperMod'
-enableInlineShortcodes = true
 
 [params]
   defaultTheme = "dark"
-  ShowReadingTime = false
-  ShowShareButtons = false
-
+  
   [params.profileMode]
     enabled = true
     title = "Maxx Boese"
-    subtitle = "Cybersecurity Student | Developer | Memory Manipulation & Reverse Engineering"
-    imageUrl = "" # You can add a link to an avatar image here if you want
-    
-    [[params.profileMode.buttons]]
-      name = "GitHub"
-      url = "https://github.com/maxxboese"
-
-    [[params.profileMode.buttons]]
-      name = "Projects"
-      url = "/projects" # You can add your projects here later
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+    subtitle = "Cybersecurity Student | Developer"
