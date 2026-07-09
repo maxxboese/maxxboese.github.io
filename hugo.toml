@@ -1,12 +1,15 @@
 baseURL = 'https://maxxboese.github.io/'
+languageCode = 'en-us'
 title = 'Maxx Boese'
+theme = 'PaperMod' # Even though you moved files, keeping this often helps Hugo resolve internal paths.
 
 [params]
-  defaultTheme = 'dark'
+  # This enables the "Profile" mode you saw locally
   [params.profileMode]
     enabled = true
-    title = 'Maxx Boese'
-    subtitle = 'Cybersecurity Student | Developer'
+    title = "Maxx Boese"
+    subtitle = "Cybersecurity Student | Developer"
+    imageUrl = "" # Add a link to a profile pic here if you want one
 
 [menu]
   [[menu.main]]
