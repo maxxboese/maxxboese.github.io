@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Maxx Boese</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Maxx Boese</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fall Guys Item Shop Tracker</title>
+      <link>http://localhost:1313/projects/fall-guys-tracker/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fall-guys-tracker/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Built a responsive web interface to track item rotations in Fall Guys.&lt;/p&gt;
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data Source:&lt;/strong&gt; Integrated with the Fall Guys CMS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; [Insert your tools, e.g., JavaScript, Hugo, or React].&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Challenge:&lt;/strong&gt; Parsing JSON data from the CMS to predict item rotation schedules.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My Project</title>
+      <link>http://localhost:1313/projects/my-first-project/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/my-first-project/</guid>
+      <description>&lt;p&gt;Project description here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secure Licensing &amp; Authentication Architecture</title>
+      <link>http://localhost:1313/projects/auth-system/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/auth-system/</guid>
+      <description>&lt;h3 id=&#34;system-overview&#34;&gt;System Overview&lt;/h3&gt;
+&lt;p&gt;Engineered a secure, end-to-end authentication and licensing ecosystem connecting a client-side loader to a web-based management backend.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;License Management:&lt;/strong&gt; Implemented a robust key-generation and verification system, allowing for the programmatic issuance, tracking, and revocation of access keys.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User Management:&lt;/strong&gt; Developed a secure database interface to manage user access, purchase history, and subscription duration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secure Authentication:&lt;/strong&gt; Built an encrypted communication pipeline between the loader and the web backend, ensuring that only authenticated hardware IDs (HWID) can access product features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operational Security:&lt;/strong&gt; Designed the loader to require valid token-based authentication before initialization, preventing unauthorized access and ensuring license-time enforcement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python/C# (Loader), Web-Backend (API Integration), and Secure Cryptographic Token Handling.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Custom License &amp; Update Management</title>
+      <link>http://localhost:1313/projects/loader-system/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/loader-system/</guid>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;
+&lt;p&gt;Developed a multi-game loader system with a focus on modular architecture and automated software delivery.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Features:&lt;/strong&gt; Automated update fetching from GitHub, custom licensing logic, and hardware ID (HWID) management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security:&lt;/strong&gt; Implemented code signing using &lt;code&gt;signtool.exe&lt;/code&gt; to ensure software integrity and security.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, C#, and C++ for low-level system interaction and UI development.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memory Research &amp; Reverse Engineering</title>
+      <link>http://localhost:1313/projects/memory-research/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/memory-research/</guid>
+      <description>&lt;h3 id=&#34;technical-research&#34;&gt;Technical Research&lt;/h3&gt;
+&lt;p&gt;Focused on deep-level memory manipulation and security research for competitive game titles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reverse Engineering:&lt;/strong&gt; Proficient in IDA Pro and x64dbg for binary analysis, signature ripping, and pattern scanning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memory Manipulation:&lt;/strong&gt; Experienced in reading memory offsets, hex-based address hunting, and dynamic patching to adapt to game updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security:&lt;/strong&gt; Conducted research into anti-cheat bypass techniques and safe feature implementation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; C++, C#, Assembly.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,11 +1,15 @@
 baseURL = 'https://maxxboese.github.io/'
-languageCode = 'en-us'
 title = 'Maxx Boese'
-theme = ['PaperMod']  # Use brackets here to force theme loading
 
 [params]
-  defaultTheme = "dark"
+  defaultTheme = 'dark'
   [params.profileMode]
     enabled = true
-    title = "Maxx Boese"
-    subtitle = "Cybersecurity Student & Developer"
+    title = 'Maxx Boese'
+    subtitle = 'Cybersecurity Student | Developer'
+
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
