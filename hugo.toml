@@ -5,6 +5,3 @@ theme = 'PaperMod'
 
 [params]
   defaultTheme = "dark"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
