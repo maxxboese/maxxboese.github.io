@@ -1,14 +1,12 @@
 baseURL = 'https://maxxboese.github.io/'
 locale = 'en-US'
 title = 'Maxx Boese'
+theme = 'PaperMod'
 
 [params]
+  # We disable profileMode so your homepage content shows up!
   [params.profileMode]
-# ... the rest of your settings ...
-    enabled = true
-    title = "Maxx Boese"
-    subtitle = "Cybersecurity Student | Developer"
-    imageUrl = "" # Add a link to a profile pic here if you want one
+    enabled = false 
 
 [menu]
   [[menu.main]]
