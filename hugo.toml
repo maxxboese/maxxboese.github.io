@@ -1,10 +1,8 @@
 baseURL = 'https://maxxboese.github.io/'
 locale = 'en-US'
 title = 'Maxx Boese'
-theme = 'PaperMod'
 
 [params]
-  # We disable profileMode so your homepage content shows up!
   [params.profileMode]
     enabled = false 
 
